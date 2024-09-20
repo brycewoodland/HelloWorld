@@ -10,7 +10,7 @@
 
 Steps to build and/or run the software:
 
-1. Type ```python
+1. Type ```
            print("Hello World!")
         ```
 
